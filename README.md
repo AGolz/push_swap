@@ -25,7 +25,6 @@ pa
 ## Here's how it should work :
 
 ![stacks](https://github.com/AGolz/push_swap/blob/main/image/result%20of%20the%20algorithm.png)
-
 ```
 The actions are called: sa, sb, ss, pa, pb, ra, rb, rr and rra, rrb, rrr.
 ```

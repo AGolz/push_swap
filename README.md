@@ -45,7 +45,19 @@ The actions are called: sa, sb, ss, pa, pb, ra, rb, rr and rra, rrb, rrr.
 
 ![ra, rb, rr](https://github.com/AGolz/push_swap/blob/main/image/rra%20rrb%20rrr.png)
 
+## The bonus part. The "checker" program.
 
+This program reads the instructions passed to push_swap and checks whether the stack is sorted.
+```
+$>./checker 3 2 1 0
+rra
+pb
+sa
+rra
+pa
+OK
+```
+Run using `./push_swap 3 5 1 | ./checker 3 5 1` (or `ARG="4 67 3 87 23"; ./push_swap $ARG | ./checker $ARG`). The program should display **OK** if the instructions are correct. If the stack is still not sorted, the program will display **KO**. If you submit duplicated numbers, arguments that are not numeric or int, the program will return **Error**. The argument must be the same for **checker** and **push_swap**.
 
 [Project instructions](/en.subject.pdf)
 

@@ -6,7 +6,7 @@
 
 **Result :** 125% 
 
-Push_swap is a 42 Project, which is to sort the stack using a limited set of operations and as few instructions as possible. It is allowed to use only two stacks (Stack A and Stack B), as a result of the program, stack A must be sorted in ascending order from top to bottom.
+Push_swap is a 42 Project, the goal of which is to sort the stack using a limited set of operations and as few instructions as possible. It is allowed to use only two stacks (Stack A and Stack B), as a result of the program, stack A must be sorted in ascending order from top to bottom.
 
 There are only a few moves that are allowed to be used, let's call them "actions" :
 

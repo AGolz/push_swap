@@ -48,7 +48,7 @@ The actions are called: sa, sb, ss, pa, pb, ra, rb, rr and rra, rrb, rrr.
 ## The bonus part
 ### The "checker" program
 
-This program reads the instructions passed to push_swap and checks whether the stack is sorted.
+This program reads the instructions passed to **push_swap and** checks whether the stack is sorted.
 ```
 $>./checker 3 2 1 0
 rra

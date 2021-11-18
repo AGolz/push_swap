@@ -57,6 +57,8 @@ rra
 pa
 OK
 ```
+Run `make bonus` to compile the **checker** program.
+
 Run using `./push_swap 3 5 1 | ./checker 3 5 1` (or `ARG="4 67 3 87 23"; ./push_swap $ARG | ./checker $ARG`). The program should display **OK** if the instructions are correct. If the stack is still not sorted, the program will display **KO**. If you submit duplicated numbers, arguments that are not numeric or int, the program will return **Error**. The argument must be the same for **checker** and **push_swap**.
 
 [Project instructions](/en.subject.pdf)

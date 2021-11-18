@@ -26,6 +26,27 @@ pa
 
 ![stacks](https://github.com/AGolz/push_swap/blob/main/image/result%20of%20the%20algorithm.png)
 
+```
+The actions are called: sa, sb, ss, pa, pb, ra, rb, rr and rra, rrb, rrr.
+```
+
+### Commands "sa, sb, ss"
+
+![sa, sb, ss](https://github.com/AGolz/push_swap/blob/main/image/sa%20sb%20ss.png)
+
+### Commands "pa, pb"
+
+![pa, pb](https://github.com/AGolz/push_swap/blob/main/image/pa%20pb.png)
+
+### Commands "ra, rb, rr"
+
+![ra, rb, rr](https://github.com/AGolz/push_swap/blob/main/image/ra%20rb%20rr.png)
+
+### Commands "rra, rrb, rrr"
+
+![ra, rb, rr](https://github.com/AGolz/push_swap/blob/main/image/rra%20rrb%20rrr.png)
+
+
 
 [Project instructions](/en.subject.pdf)
 

@@ -45,7 +45,8 @@ The actions are called: sa, sb, ss, pa, pb, ra, rb, rr and rra, rrb, rrr.
 
 ![ra, rb, rr](https://github.com/AGolz/push_swap/blob/main/image/rra%20rrb%20rrr.png)
 
-## The bonus part. The "checker" program.
+## The bonus part
+### The "checker" program
 
 This program reads the instructions passed to push_swap and checks whether the stack is sorted.
 ```

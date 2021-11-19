@@ -50,7 +50,7 @@ The actions are called: sa, sb, ss, pa, pb, ra, rb, rr and rra, rrb, rrr.
 
 This program reads the instructions passed to **push_swap** and checks whether the stack is sorted.
 ```
-$>./checker 3 2 1 0
+$>./checker 11 9 5 3
 rra
 pb
 sa
@@ -60,7 +60,7 @@ OK
 ```
 Run `make bonus` to compile the **checker** program.
 
-Run using `./push_swap 3 5 1 | ./checker 3 5 1` (or `ARG="4 67 3 87 23"; ./push_swap $ARG | ./checker $ARG`). The program should display **OK** if the instructions are correct. If the stack is still not sorted, the program will display **KO**. If you submit duplicated numbers, arguments that are not numeric or int, the program will return **Error**. The argument must be the same for **checker** and **push_swap**.
+Run using `./push_swap 6 9 1 | ./checker 6 9 1` (or `ARG="4 67 3 87 23"; ./push_swap $ARG | ./checker $ARG`). The program should display **OK** if the instructions are correct. If the stack is still not sorted, the program will display **KO**. If you submit duplicated numbers, arguments that are not numeric or int, the program will return **Error**. The argument must be the same for **checker** and **push_swap**.
 
 [Project instructions](/en.subject.pdf)
 

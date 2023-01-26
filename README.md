@@ -1,4 +1,4 @@
-# push_swap
+# push_swap :arrows_counterclockwise:
 
 **Push_swap ([42cursus](https://www.42.fr)) 2021**
 

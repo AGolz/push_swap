@@ -64,6 +64,6 @@ Run `./push_swap 6 9 1 | ./checker 6 9 1` (or `ARG="4 67 3 87 23"; ./push_swap $
 
 [Project instructions](/en.subject.pdf)
 
-Need help: cfiora@student.21-school.ru
+Need help: emaksimo@student.42yerevan.am
 
 Special thanks: [elijahkash](https://github.innominds.com/elijahkash) for the [push_swap_gui](https://github.innominds.com/elijahkash/push_swap_gui)
